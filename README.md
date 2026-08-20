@@ -26,7 +26,8 @@ Considero muy efectiva y precisa la información que transmite. Sin embargo, est
 
 Por ejemplo, en este gráfico cuesta leer y entender lo que quiere decir.
 
-> **[Insertar aquí el gráfico de cumplimiento de políticas]**
+<img width="2266" height="1488" alt="IMG_6439" src="https://github.com/user-attachments/assets/32519440-08d9-4b49-8657-aae9b647c299" />
+
 
 De todas formas, es muy bueno que haya diversidad de gráficos, pues en esta web story no se limitan a utilizar un solo tipo. Se incorporan gráficos de líneas, de puntos, de rayas y también análisis cualitativos.
 
